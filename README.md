@@ -1,2 +1,2 @@
 # 42_printf
-Replicat
+Replicating printf
